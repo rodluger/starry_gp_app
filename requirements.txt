@@ -35,7 +35,7 @@ scipy==1.5.2
 setuptools-scm==4.1.2
 six==1.15.0
 starry==1.0.0
--e git://github.com/rodluger/starry_gp@470ff38b1df653f4e08c92487561be5f435175ce#egg=starry_gp
+-e git://github.com/rodluger/starry_gp@af9441d136026825a31bc662bacbd7469e0f1c15#egg=starry_gp
 Theano==1.0.5
 traitlets==4.3.3
 typing-extensions==3.7.4.3

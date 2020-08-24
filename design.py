@@ -29,7 +29,7 @@ def get_intensity_design_matrix(ydeg, npix=50):
         lon = lon.flatten() * 180 / np.pi
         map = starry.Map(ydeg, lazy=False)
         A_I = np.pi * map.intensity_design_matrix(lat=lat, lon=lon)
-        np.savez(file, A_I=A_I)
+        np.savez_compressed(file, A_I=A_I)
 
     # Else load from disk
     else:
