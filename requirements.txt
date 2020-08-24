@@ -9,7 +9,7 @@ decorator==4.4.2
 exoplanet==0.3.2
 fastprogress==1.0.0
 h5py==2.10.0
-ipython==7.17.0
+ipython==7.16.1
 ipython-genutils==0.2.0
 jedi==0.17.2
 kiwisolver==1.2.0
