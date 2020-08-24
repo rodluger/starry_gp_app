@@ -2,6 +2,7 @@ appnope==0.1.0
 arviz==0.9.0
 astropy==4.0.1.post1
 backcall==0.2.0
+bokeh==2.2.0
 certifi==2020.6.20
 cftime==1.2.1
 cycler==0.10.0
@@ -12,7 +13,9 @@ h5py==2.10.0
 ipython==7.16.1
 ipython-genutils==0.2.0
 jedi==0.17.2
+Jinja2==2.11.2
 kiwisolver==1.2.0
+MarkupSafe==1.1.1
 matplotlib==3.3.1
 netCDF4==1.5.4
 numpy==1.19.1
@@ -31,12 +34,14 @@ pymc3==3.9.3
 pyparsing==2.4.7
 python-dateutil==2.8.1
 pytz==2020.1
+PyYAML==5.3.1
 scipy==1.5.2
 setuptools-scm==4.1.2
 six==1.15.0
 starry==1.0.0
 -e git://github.com/rodluger/starry_gp@af9441d136026825a31bc662bacbd7469e0f1c15#egg=starry_gp
 Theano==1.0.5
+tornado==6.0.4
 traitlets==4.3.3
 typing-extensions==3.7.4.3
 wcwidth==0.2.5
