@@ -8,6 +8,7 @@ dist/
 *.npz
 *.vscode
 *.dat
+src/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
